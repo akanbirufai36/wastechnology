@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Computer technology education and technical lab training illustration">
+  <defs>
+    <linearGradient id="acadGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="380" height="240" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" />
+  
+  <!-- Graduation Cap / Badge -->
+  <polygon points="200,45 280,75 200,105 120,75" fill="url(#acadGrad)" />
+  <rect x="160" y="95" width="80" height="30" rx="6" fill="#1e3a8a" />
+  <line x1="260" y1="80" x2="260" y2="120" stroke="#f59e0b" stroke-width="3" />
+  <circle cx="260" cy="125" r="5" fill="#f59e0b" />
+  
+  <!-- Certificate / Workbench Sheet -->
+  <rect x="110" y="135" width="180" height="95" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="2" />
+  <line x1="130" y1="155" x2="210" y2="155" stroke="#2563eb" stroke-width="3" stroke-linecap="round" />
+  <line x1="130" y1="170" x2="270" y2="170" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="130" y1="182" x2="250" y2="182" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="130" y1="194" x2="230" y2="194" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" />
+  <circle cx="255" cy="200" r="14" fill="#eff6ff" stroke="#2563eb" stroke-width="2" />
+  <path d="M250 200 L254 204 L261 196" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
