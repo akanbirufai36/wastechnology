@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemap location
+Sitemap: https://wastechnology.com.ng/sitemap.xml
