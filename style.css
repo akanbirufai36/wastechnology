@@ -373,6 +373,22 @@ section {
   margin-bottom: 1rem;
 }
 
+.card-thumb {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+  background-color: var(--bg-alt);
+  border-radius: var(--radius-md);
+  margin-bottom: 1.25rem;
+  padding: 0.5rem;
+  border: 1px solid var(--border);
+  transition: transform var(--transition-normal);
+}
+
+.card:hover .card-thumb {
+  transform: scale(1.02);
+}
+
 .card h3, .card dt {
   font-size: 1.15rem;
   font-weight: 700;
